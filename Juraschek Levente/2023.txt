@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="HU">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style/style.css">
+    <title></title>
+</head>
+<body style="background-color:green;">
+
+
+
+<content>
+h1 {text-align: center;}
+<br><h1 style="color:blue;">Teszt Elek</h1>
+<br>
+<p><i>"Tesztkörnyezet</i></p>
+<p><i>Docker_2023</i></p>
+<br>
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="Juraschek Levente"><br>
+  <input type="submit" value="Submit">
+</form> 
+<p>
+
+</div>
+</content>
+
+</body>
+</html>
